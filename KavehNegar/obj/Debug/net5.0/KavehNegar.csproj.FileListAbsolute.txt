@@ -1,0 +1,5 @@
+C:\Users\meghdad\source\repos\KavehNegar\KavehNegar\obj\Debug\net5.0\KavehNegar.csproj.AssemblyReference.cache
+C:\Users\meghdad\source\repos\KavehNegar\KavehNegar\obj\Debug\net5.0\KavehNegar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meghdad\source\repos\KavehNegar\KavehNegar\obj\Debug\net5.0\KavehNegar.AssemblyInfoInputs.cache
+C:\Users\meghdad\source\repos\KavehNegar\KavehNegar\obj\Debug\net5.0\KavehNegar.AssemblyInfo.cs
+C:\Users\meghdad\source\repos\KavehNegar\KavehNegar\obj\Debug\net5.0\KavehNegar.csproj.CoreCompileInputs.cache
